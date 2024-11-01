@@ -15,6 +15,3 @@ Featured Projects 🚀
 
 🏋️‍♂️ Workout Encouragement App
 A fun app aimed at helping users stay consistent with their workouts, featuring a friendly bear mascot! The app encourages users to find their own fitness path, making the journey feel personal and motivating.
-
-AI Course
-As part of my AI course, I'm diving into Python and tackling assignments that deepen my understanding of machine learning principles. The emphasis is on mastering core concepts and learning the best practices for effective AI programming.
