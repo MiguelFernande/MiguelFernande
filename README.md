@@ -1,6 +1,6 @@
 # Welcome to My GitHub Page!
 
-Hi there! I'm a college student with a passion for software development and technology, currently focused on iOS development, AI, and web development.
+Hi there! I'm new collage graduate with a passion for software development and technology, currently focused on iOS development, AI, and web development.
 My journey so far has been hands-on, with experiences in Java, C++, Swift, JavaScript, and Python.
 
 ## About Me
@@ -15,19 +15,17 @@ My journey so far has been hands-on, with experiences in Java, C++, Swift, JavaS
 - Swift
 - JavaScript
 - Python
-- C++
 
 ### Frameworks & Tools
 - SwiftUI
-- Microsoft Office Suite
 - Xcode
 - Jupyter Notebook
-- Eclipse
+- VS Code
 
 ## Featured Projects
 
 ### Workout Encouragement App
-A fun app aimed at helping users stay consistent with their workouts, featuring a friendly bear mascot! The app encourages users to find their own fitness path, making the journey feel personal and motivating.
+An app aimed at helping users stay consistent with their workouts. Imagine Duolingo, but for workouts.
 
 ### Simple Text Encryptor
 A Java-based text encryption tool using Linear Feedback Shift Register (LFSR) method. Perfect for quick encryption/decryption of text strings or hexadecimal data.
@@ -41,13 +39,11 @@ A specialized Java application designed to decrypt KeePass Database (KDB) files 
 - Block-based decryption system
 - Modular architecture with clear separation of concerns
 
-### Cross-Platform File Management System
-A comprehensive Java-based file management solution with built-in LFSR encryption capabilities.
+### SimpleFile Management System
 - Basic file operations (CRUD)
 - Directory management
 - Text file encryption/decryption
-- Cross-platform compatibility (Windows & macOS)
-
+  
 ### Mini Language Compiler
 A compiler implementation for a custom mini programming language in Java.
 - Complete lexical analysis
@@ -64,4 +60,4 @@ A compiler implementation for a custom mini programming language in Java.
 - AI/Machine Learning
 - Web Development Technologies
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+Feel free to explore my repositories
