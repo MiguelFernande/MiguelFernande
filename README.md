@@ -1,6 +1,6 @@
 # Welcome to My GitHub Page!
 
-Hi there! I'm new collage graduate with a passion for software development and technology, currently focused on iOS development, AI, and web development.
+Hi there! I'm new university graduate with a passion for software development and technology, currently focused on iOS development, AI, and web development.
 My journey so far has been hands-on, with experiences in Java, C++, Swift, JavaScript, and Python.
 
 ## About Me
